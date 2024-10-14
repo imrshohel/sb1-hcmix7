@@ -1,0 +1,6 @@
+PySide6==6.5.0
+qfluentwidgets==1.2.0
+openai==0.27.0
+anthropic==0.2.6
+google-cloud-aiplatform==1.25.0
+requests==2.26.0

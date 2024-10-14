@@ -1,0 +1,6 @@
+{
+  "grammar_check": "Please check the following text for grammatical errors:",
+  "style_improvement": "Please suggest improvements to the style of the following text:",
+  "content_expansion": "Please expand on the following text with additional relevant information:",
+  "summarization": "Please provide a concise summary of the following text:"
+}
